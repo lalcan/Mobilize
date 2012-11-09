@@ -1,7 +1,7 @@
 <?php
 /**
  * Elgg mobilize spanish language
- * @author Leonardo
+ * @author Leonardo Alcantara
  *
  * @package mobilize
  * 
@@ -9,15 +9,15 @@
 
 $spanish = array(
 
-	'mobilize:info:teaser' => '¿Utilizar Descripcion de?',
-	'mobilize:label:color' => "Color Encabezado, ingrese codigo de color Hex - #4690D6",
-	'mobilize:label:fp' => "¿Desabilitar javascript de seleccion amigos?", 
-	'mobilize:label:logo' => "¿Desplegar tu logo?",
-	'mobilize:label:teaser' => 'Si seleccionas Campo Texto, ingresa la descripcion:',
+	'mobilize:info:teaser' => 'Utilizar Descripci&oacute;n de:',
+	'mobilize:label:color' => "Color Encabezado, (C&oacute;digo de Color Hex) - #4690D6",
+	'mobilize:label:fp' => "&iquest;Desabilitar javascript de selecci&oacute;n amigos?", 
+	'mobilize:label:logo' => "&iquest;Desplegar tu logo?",
+	'mobilize:label:teaser' => 'Si seleccionas Campo de Texto, ingresa la descripci&oacute;n:',
 	'mobilize:menu' => "Sub menu",
-	'mobilize:navigation' => "Navegacion",
+	'mobilize:navigation' => "Navegaci&oacute;n",
 	'mobilize:option:lang' => "Archivo de Idioma",
-	'mobilize:option:field' => "Campo Texto",
+	'mobilize:option:field' => "Campo de Texto",
 	'mobilize:option:none' => "Nada",
 	'mobilize:pagetitle' => 'Este es Mobilize',
 	'mobilize:teaser' => 'Bienvenido a nuestro sitio movil.   Por favor ingresa o registrate.',
